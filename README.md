@@ -2,7 +2,7 @@
 
 ## this is heading
 
-##Below is the bullet list
+## Below is the bullet list
 
 * Item 1
 * Item 2
